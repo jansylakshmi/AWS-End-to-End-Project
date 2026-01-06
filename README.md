@@ -1,10 +1,9 @@
-a# 🚀 End-to-End AWS Project
+
 
 ## Auto-Scalable Application with Monitoring, Storage & Notifications
 
 This project demonstrates a **beginner-to-intermediate, production-style AWS architecture** using managed services to deploy, scale, monitor, and secure an application.
 
-It is **GitHub-ready**, **resume-friendly**, and ideal for **DevOps / Cloud Engineer roles**.
 
 ---
 
